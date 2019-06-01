@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nt.test.HQLInsertQueryTest&apos; to &apos;NamedHQLInsertQueryTest&apos;&#x0D;&#x0A;- Original project: &apos;HB-Proj44-NamedHQL-INSERT&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.test.HQLInsertQueryTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.test.NamedHQLInsertQueryTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HQLInsertQueryTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.nt.test{HQLInsertQueryTest.java[HQLInsertQueryTest" matchStrategy="1" name="NamedHQLInsertQueryTest" qualified="false" references="true" similarDeclarations="false" stamp="1558942512391" textual="false" version="1.0"/>
+</session>

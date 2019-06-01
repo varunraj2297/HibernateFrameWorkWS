@@ -1,0 +1,3 @@
+SQL> create table studentcoursesinfo(sid number(5),sname varchar2(10),course varchar2(10),duration number(5),fee number(10,2),primary key(sid,course));
+
+Table created.

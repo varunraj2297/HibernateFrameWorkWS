@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+    <hibernate-mapping>
+    	
+    	<class name="com.nt.entity.Employee" table="Employee">
+    		<!-- Singular id -->
+    		<id name="eno" column="ENO" type="int" length="10">
+    	        <!-- <generator class="assigned"/> -->
+    	        <!--    <generator class="org.hibernate.id.Assigned"/> -->
+    	 <!--          <generator class="increment"/>  -->
+    	  <!--       <generator class="identity"/> -->
+    	<!--   <generator class="sequence"/> -->
+    	<!--  <generator class="sequence">
+    	     <param name="sequence_name">EID_SEQ</param>
+    	</generator> -->
+    	<!-- <generator class="hilo">
+    	      <param name="table">hi</param>
+    	      <param name="column">hi</param>
+    	      <param name="max_lo">5</param>
+    	</generator> -->
+    	
+    <!-- 	<generator class="hilo">
+    	      <param name="max_lo">5</param>
+    	</generator> -->
+    	
+    <!-- 	<generator class="seqhilo">
+    	      <param name="max_lo">5</param>
+    	</generator> -->
+    		<!-- <generator class="seqhilo">
+    	       <param name="sequence">eid_seq11</param>
+    	      <param name="max_lo">5</param>
+    	</generator>  -->
+    	
+    	<!-- <generator class="native"/> -->
+    	<!-- <generator class="native">
+    	     <param name="sequence_name">eid_seq11</param>
+    	</generator> -->
+    	
+    <!-- 	<generator class="guid"/>  in my sql by default -  wil come-->
+    
+   <!--  <generator class="guid">
+       <param name="seperator">-</param>   no use in oracle dont work
+    </generator> -->
+       
+  <!--    <generator class="uuid"/> -->
+ <!--    <generator class="uuid">
+       <param name="separator">-</param>
+    </generator> -->
+    	       
+    	       <!--  <generator class="uuid2"/> --><!--   in my sql n oracle by default -  wil come -->
+    	      <!--   <generator class="uuid2">
+    	        <param name="separator">-</param>  no use
+           </generator>
+    	         -->
+    	         
+    	         <generator class="select">
+    	            <param name="key">desg</param>
+    	         </generator>
+    		</id>
+    		
+    		<property name="ename" column="ENAME" type="string" length="10"/>
+    		<property name="salary" column="SAL"  type="float" scale="7" precision="2"/>  		
+    		<property name="desg" column="JOB" type="string" length="10"/>
+    	</class>
+    	
+    </hibernate-mapping>

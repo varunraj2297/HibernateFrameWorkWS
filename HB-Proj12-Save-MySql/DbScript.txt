@@ -1,0 +1,3 @@
+SQL> create table employee(eno number(10) primary key,ename varchar2(10),job varchar2(10),sal number(7,2));
+
+Table created.

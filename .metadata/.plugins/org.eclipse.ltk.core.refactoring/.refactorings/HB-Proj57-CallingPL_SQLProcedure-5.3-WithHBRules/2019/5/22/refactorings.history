@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DBScript.txt&apos; to &apos;HB-Proj56-CallBackInterface-ReturningWork&apos;&#x0D;&#x0A;- Original project: &apos;HB-Proj57-CallingPL_SQLProcedure-5.3-WithHBRules&apos;&#x0D;&#x0A;- Destination element: &apos;HB-Proj56-CallBackInterface-ReturningWork&apos;&#x0D;&#x0A;- Original element: &apos;DBScript.txt&apos;" description="Copy file" element1="DBScript.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1559225216019" target="/HB-Proj56-CallBackInterface-ReturningWork" units="0" version="1.0"/>
+</session>

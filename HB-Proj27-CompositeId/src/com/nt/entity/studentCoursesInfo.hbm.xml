@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+    <hibernate-mapping package="com.nt.entity">
+    		<class name="StudentCoursesInfo" table="STUDENTCOURSESINFO">
+               		<composite-id name="id" class="StudentId">
+               		     <key-property name="sid"  column="SID" length="5" type="int"/>
+               		     <key-property name="course" column="COURSE" length="10" type="string"/>
+               		</composite-id>  
+    
+    				<property name="sname" column="SNAME" length="10" type="string"/>
+    				<property name="duration" column="DURATION" length="5" type="int"/>
+    				<property name="fee" column="FEE" scale="10" precision="2" type="float"/>
+  			  </class>
+    </hibernate-mapping>

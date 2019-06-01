@@ -1,0 +1,42 @@
+package com.nt.dao;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+
+import org.hibernate.Session;
+import org.hibernate.jdbc.ReturningWork;
+
+import com.nt.utility.HibernateUtil;
+
+public class AuthDAOImpl implements AuthDAO {
+
+	@Override
+	public String authenticate(String user, String pass) {
+		Session ses=null;
+		String result=null;
+		
+		ses=HibernateUtil.getSession();
+		result=ses.doReturningWork(new Authencation(user, pass));		
+		return result;
+	}
+	
+	public static class Authencation implements ReturningWork<String>{
+        String user,pass;
+		
+		public Authencation(String user, String pass) {
+			this.user = user;
+			this.pass = pass;
+		}
+
+
+
+		@Override
+		public String execute(Connection arg0) throws SQLException {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		
+		
+	}
+
+}

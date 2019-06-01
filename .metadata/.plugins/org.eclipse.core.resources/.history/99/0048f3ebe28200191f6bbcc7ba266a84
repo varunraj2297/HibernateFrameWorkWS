@@ -1,0 +1,12 @@
+package com.nt.factory;
+
+import com.nt.dao.AuthDAO;
+import com.nt.dao.AuthDAOImpl;
+import com.nt.dao.AuthDAOImpl1;
+
+public class AuthDAOFactory {
+	public static AuthDAO getInstance() {
+		//return new AuthDAOImpl();
+		return new AuthDAOImpl1();
+	}
+}

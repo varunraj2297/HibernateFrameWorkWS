@@ -1,0 +1,13 @@
+package com.nt.dao;
+
+import java.util.List;
+
+public class BankDAOImpl implements BankDAO {
+
+	@Override
+	public List<Object[]> getCustomerDetailsByAdd(String addrs) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

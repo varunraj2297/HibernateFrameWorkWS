@@ -1,0 +1,70 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+    <hibernate-mapping>
+    	
+    	<class name="com.nt.entity.Employee" table="Employee">
+    		<!-- Singular id -->
+    		<id name="eno" column="ENO" type="int" length="10"/>   
+    		<property name="ename" column="ENAME" type="string" length="10"/>
+    		<property name="salary" column="SAL"  type="float" scale="7" precision="2"/>  		
+    		<property name="desg" column="JOB" type="string" length="10"/>
+    	</class>
+    	
+    	<sql-query name="GET_EMPS">
+    	  select * from employee
+    	</sql-query>
+    	<sql-query name="GET_EMPS_BY_ENOs_RANGE">
+    	  <![CDATA[
+    	     select eno,ename,job,sal from Employee where eno>=? and eno<=?
+    	      ]]>
+    	</sql-query>
+    	
+    	<sql-query name="GET_EMPS_BY_ENOs_RANGE_USING_NAMED_PARAMS">
+    	   <![CDATA[
+    	        select eno,ename,job,sal from Employee where eno>=:start and eno<=:end
+    	      ]]>
+    	</sql-query>
+    	<sql-query name="GET_EMPS_BY_ENOs">
+    	   select eno,ename,job,sal from Employee where ename in(:name1,:name2)
+    	</sql-query>
+    	
+    	<sql-query name="GET_EMP_DETAILS">
+    	  select eno,ename,job from Employee
+    	</sql-query>
+    	
+    	<sql-query name="GET_EMP_DETAILS_BY_ENOs_RANGE">
+    	   <![CDATA[
+    	       select eno,ename,job  from Employee where eno>=?2 and eno<=?3
+    	       ]]>
+    	</sql-query>
+    	
+    	<sql-query name="GET_EMPS_DETAILS_BY_ENAMEs">
+    	   select eno,ename,job from Employee where ename in(:name1,:name2)
+    	</sql-query>
+    	
+    	<sql-query name="GET_ENO_BY_ENO">
+    	  select eno from Employee where eno=:no
+    	</sql-query>
+    	
+    	<sql-query name="GET_EMPS_COUNT">
+    	   select count(*) from Employee
+    	</sql-query>
+    	
+    	<sql-query name="GET_HIGH_SAL_EMP_DETAILS">
+    	   select eno,ename,job from Employee where sal=(select max(sal) from Employee)
+    	</sql-query>
+    	
+    	<sql-query name="INSERT_QUERY">
+    	   insert into Employee(eno,ename,job,sal) values(?1,?2,?3,?4)
+    	</sql-query>
+    	
+    	<sql-query name="UPDATE_QUERY">
+    	  update Employee set sal=sal+:amt where eno=:no
+    	</sql-query>
+    	
+    	<sql-query name="DELETE_QUERY">
+    	   delete from Employee where sal between :min and :max
+    	</sql-query>
+    </hibernate-mapping>

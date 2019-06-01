@@ -1,0 +1,39 @@
+package com.nt.test;
+
+import java.util.List;
+
+import org.hibernate.HibernateException;
+import org.hibernate.Query;
+import org.hibernate.Session;
+
+import com.nt.entity.BankAccount;
+import com.nt.utility.HibernateUtil;
+
+public class CallPLSQLFunctionTest {
+
+	public static void main(String[] args) {
+		Session ses=null;
+		Query query=null;
+		ses=HibernateUtil.getSession();
+        List<BankAccount> list=null;
+		
+		try {
+			query=ses.getNamedQuery("CALL_FX");
+			query.setParameter(0,1000f);
+			query.setParameter(1,65000f);
+			
+			list=query.list();
+			list.forEach(b->{
+				System.out.println(b);
+			});
+		}
+		catch (HibernateException e) {
+			e.printStackTrace();
+		}
+		finally {
+			HibernateUtil.closeSession(ses);
+			HibernateUtil.closeSessionFactory();
+		}
+	}
+
+}

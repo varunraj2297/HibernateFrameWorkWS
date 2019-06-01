@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 24 May, 2019 6:58:56 PM by Hibernate Tools 5.2.3.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping auto-import="true" default-access="property" default-cascade="none" default-lazy="true">
+    <class dynamic-insert="false" dynamic-update="false" mutable="true" name="com.nt.entity.Insurancepolicy" optimistic-lock="version" polymorphism="implicit" schema="HR" select-before-update="false" table="INSURANCEPOLICY">
+        <id name="insuranceid" type="long">
+            <column name="INSURANCEID" precision="10" scale="0"/>
+            <generator class="assigned"/>
+        </id>
+        <property generated="never" lazy="false" name="insurancename" optimistic-lock="true" type="string" unique="false">
+            <column length="10" name="INSURANCENAME"/>
+        </property>
+        <property generated="never" lazy="false" name="initialamount" optimistic-lock="true" type="java.lang.Long" unique="false">
+            <column name="INITIALAMOUNT" precision="10" scale="0"/>
+        </property>
+        <property generated="never" lazy="false" name="tenure" optimistic-lock="true" type="java.lang.Long" unique="false">
+            <column name="TENURE" precision="10" scale="0"/>
+        </property>
+    </class>
+</hibernate-mapping>

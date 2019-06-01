@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;HB-Proj56-CallBackInterface-ReturningWork/src&apos;&#x0D;&#x0A;- Original project: &apos;HB-Proj41-HQL&apos;&#x0D;&#x0A;- Destination element: &apos;HB-Proj56-CallBackInterface-ReturningWork/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     HB-Proj41-HQL/src/com.nt.cfgs&#x0D;&#x0A;     HB-Proj41-HQL/src/com.nt.utility" description="Copy packages" destination="=HB-Proj56-CallBackInterface-ReturningWork/src" element1="/src&lt;com.nt.cfgs" element2="/src&lt;com.nt.utility" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1559222913865" version="1.0"/>
+</session>

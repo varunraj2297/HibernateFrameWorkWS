@@ -1,0 +1,9 @@
+create or replace function fx_get_bankacc_info_byaddrs(addrs in varchar2)
+return sys_refcursor
+as
+details sys_refcursor;
+begin
+   open details for select cid,cname from bank where cadd=addrs;
+   return details;
+end;
+/

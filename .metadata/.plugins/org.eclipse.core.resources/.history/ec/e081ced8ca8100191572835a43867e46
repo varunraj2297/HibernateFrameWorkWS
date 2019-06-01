@@ -1,0 +1,19 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+    <hibernate-mapping>
+    	
+    	<class name="com.nt.entity.Employee" table="Employee">
+    		<!-- Singular id -->
+    		<id name="eno" column="ENO" type="int" length="10"/>   
+    		<property name="ename" column="ENAME" type="string" length="10"/>
+    		<property name="salary" column="SAL"  type="float" scale="7" precision="2"/>  		
+    		<property name="desg" column="JOB" type="string" length="10"/>
+    	</class>
+    	
+    	<sql-query name="CALL_PROCEDURE" callable="true">
+    	   <return class="com.nt.entity.Employee"/>
+    	  <![CDATA[  {call  p_get_emps_by_sal_range(?,:min,:max)} ]]>
+    	</sql-query>
+    </hibernate-mapping>

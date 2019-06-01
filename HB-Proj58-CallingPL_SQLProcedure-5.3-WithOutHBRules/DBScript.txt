@@ -1,0 +1,6 @@
+create or replace procedure p_get_emps_by_desg(des in varchar2,details out sys_refcursor)
+as
+begin
+  open details for select eno,ename,job,sal from employee where job=des;
+end;
+/

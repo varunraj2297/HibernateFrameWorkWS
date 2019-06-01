@@ -1,0 +1,11 @@
+create or replace function fx_get_bacc_info_by_bal_range
+(startRange in number,
+ endRange in number)  
+return sys_refcursor
+as
+details sys_refcursor;
+begin
+  open details for select acno,holdername from bankaccount where balance>=startRange and balance<=endRange;
+return details;
+end;
+/
