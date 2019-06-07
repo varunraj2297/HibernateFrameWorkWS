@@ -6,16 +6,20 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="NamedNativeQuery" key="selection"/>
+		<item value="int" key="selection"/>
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="float"/>
+			<item value="Double"/>
 			<item value="NamedQuery"/>
 			<item value="N"/>
 		</list>
 		<list key="replacehistory">
+			<item value="int"/>
+			<item value="float"/>
 			<item value="NamedNativeQuery"/>
 		</list>
 	</section>

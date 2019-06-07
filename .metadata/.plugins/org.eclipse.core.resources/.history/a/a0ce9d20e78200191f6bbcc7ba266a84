@@ -1,8 +1,0 @@
-create or replace procedure p_get_emps_by_sal_range
-(details out sys_refcursor,minsal in number,maxsal in number)
-as
-begin
-  open details for select eno,ename,job,sal from employee;
-end;
-/
-
