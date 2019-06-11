@@ -29,19 +29,21 @@ public class JPACriteriaAPITest {
 		Query query=null;
 		List<Vehicle> list=null;
 		try {
-			/*ses=HibernateUtil.getSession();
+			ses=HibernateUtil.getSession();
 			builder=ses.getCriteriaBuilder();
 			ctQuery=builder.createQuery(Vehicle.class);
 			root=ctQuery.from(Vehicle.class);
 			ctQuery.select(root);
 			
 			query=ses.createQuery(ctQuery);
+			query.setFirstResult(0);
+			query.setMaxResults(2);
 			list=query.getResultList();
 			list.forEach(v->{
 				System.out.println(v);
-			});*/
+			});
 			
-			ses=HibernateUtil.getSession();
+			/*ses=HibernateUtil.getSession();
 			builder=ses.getCriteriaBuilder();
 			ctQuery=builder.createQuery(Vehicle.class);
 			root=ctQuery.from(Vehicle.class);
@@ -64,7 +66,7 @@ public class JPACriteriaAPITest {
 			list=query.getResultList();
 			list.forEach(v->{
 				System.out.println(v);
-			});
+			});*/
 			
 		}
 		catch (HibernateException he) {

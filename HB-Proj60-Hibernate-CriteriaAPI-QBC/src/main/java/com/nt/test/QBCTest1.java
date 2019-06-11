@@ -23,11 +23,11 @@ public class QBCTest1 {
 		ProjectionList projlist=null;
 	   List<Object[]> list=null;
 	   List<Object> list1=null;
-	   Object[] row=null;
+//	   Object[] row=null;
 	   
 	   ses=HibernateUtil.getSession();	
 	   try {
-			/*criteria=ses.createCriteria(Vehicle.class);
+			criteria=ses.createCriteria(Vehicle.class);
 			
 			p1=Projections.property("vid");
 			p2=Projections.property("type");
@@ -41,9 +41,10 @@ public class QBCTest1 {
 			list.forEach(row->{
 			   for(Object val:row) {
 			      System.out.print(val+" ");
-			   }
+	
+			  }
 			   System.out.println();
-			});*/
+			});
 		   
 			/*criteria=ses.createCriteria(Vehicle.class);
 			p1=Projections.rowCount();
@@ -51,7 +52,7 @@ public class QBCTest1 {
 			list1=criteria.list();
 			System.out.println("Row Count::"+list1.get(0));*/
 		   
-		   criteria=ses.createCriteria(Vehicle.class);
+	/*	   criteria=ses.createCriteria(Vehicle.class);
 		   projlist=Projections.projectionList();
 		   p1=Projections.max("price");
 		   p2=Projections.min("price");
@@ -70,7 +71,7 @@ public class QBCTest1 {
 		   System.out.println("Sum Price value::"+row[2]);
 		   System.out.println("Avg Price value::"+row[3]);
 		   
-		   
+		  */ 
 	   }
 	   catch (HibernateException he) {
 		  he.printStackTrace();

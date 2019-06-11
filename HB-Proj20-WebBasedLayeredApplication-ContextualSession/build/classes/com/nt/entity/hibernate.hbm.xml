@@ -1,0 +1,15 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+   <hibernate-mapping> 
+    <class name="com.nt.entity.Project" table="PROJECT">
+    	<id name="projid" column="PROJID" type="int" length="10"/>
+    	<property name="projname" column="PROJNAME" type="string" length="10"/>
+    	<property name="teamsize" column="TEAMSIZE" type="int" length="2"/>
+    	<property name="domain" column="DOMAIN" type="string" length="10"/>
+    	<property name="projstartdate" column="PROJSTARTDATE"/>
+    	<property name="projenddate" column="PROJENDDATE"/>
+    </class>
+    
+    </hibernate-mapping>

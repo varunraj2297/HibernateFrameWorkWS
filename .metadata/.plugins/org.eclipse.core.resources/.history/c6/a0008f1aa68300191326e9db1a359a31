@@ -1,5 +1,0 @@
-package com.nt.dao;
-
-public interface BankDAO {
-   public List<Object[]> getCustomerDetailsByAdd(String addrs);
-}
