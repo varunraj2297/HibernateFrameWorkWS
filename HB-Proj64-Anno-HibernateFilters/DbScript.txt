@@ -1,0 +1,2 @@
+create table bank_account(accno number(10) primary key,holdername varchar2(15),balance number(15),status varchar2(15))
+/

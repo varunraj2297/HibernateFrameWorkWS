@@ -15,21 +15,23 @@ import com.nt.entity.Employee;
 import com.nt.utility.HibernateUtil;
 
 public class ReportDAOImpl implements ReportDAO{
-	Transaction tx=null;
+	
 
 	public List<Employee> getReportData(int startPos, int pageSize) {
         Session ses=null;
 		CriteriaBuilder builder=null;
         CriteriaQuery<Employee> ctQuery=null;
 		Root<Employee> root=null;
+		Transaction tx=null;
         Query query=null;
 		List<Employee> list=null;
 		
-        
+		 
 		ses=HibernateUtil.getSession();
-		//if(tx==null) {
-		  tx=ses.beginTransaction();
-		//}
+		synchronized (ses) {
+			tx=ses.beginTransaction();
+		}
+	
 		builder=ses.getCriteriaBuilder();
 		ctQuery=builder.createQuery(Employee.class);
 		root=ctQuery.from(Employee.class);

@@ -2,9 +2,11 @@ package com.nt.listener;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
+import javax.servlet.annotation.WebListener;
 
 import com.nt.utility.HibernateUtil;
 
+@WebListener
 public class SessionFactoryListener implements ServletContextListener {
 
 	@Override
@@ -22,6 +24,7 @@ public class SessionFactoryListener implements ServletContextListener {
 	@Override
 	public void contextDestroyed(ServletContextEvent sce) {
 		HibernateUtil.closeSessionFactory();
+		System.out.println("SessionFactory is closed");
 	}
 
 	
