@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 12 Jun, 2019 7:08:08 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+	<class name="com.nt.entity.PersonProfile" table="PersonProfile">
+		<id name="idno" type="int">
+			<column name="IDNO" />
+			<generator class="increment" />
+		</id>
+		<property name="name" type="java.lang.String">
+			<column name="NAME" />
+		</property>
+		<property name="gender" type="string">
+			<column name="GENDER" />
+		</property>
+		<property name="age" type="int">
+			<column name="AGE" />
+		</property>
+
+       <component name="addrs" class="com.nt.entity.AddressDetails">
+          <property name="houseno" type="string"/>
+          <property name="street" type="string"/>
+          <property name="area" type="string"/>
+          <property name="city" type="string"/>
+          <property name="pinCode" type="int"/>
+       </component>
+	</class>
+	
+</hibernate-mapping>

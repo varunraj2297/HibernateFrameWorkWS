@@ -1,0 +1,10 @@
+create table personprofile(idno number(10) primary key,
+                           name varchar2(20),
+                           gender varchar2(10),
+                           age number(3),
+                           houseno varchar2(20),
+                           street varchar2(20),
+                           area varchar2(20),
+                           city varchar2(15),
+                           pincode number(10))
+/

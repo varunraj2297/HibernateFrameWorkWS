@@ -8,7 +8,7 @@
 	<item value="718" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_left_width"/>
 	<item value="1714" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
 	<item value="760" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_height"/>
-	<item value="F:\third party apis\hibernate-release-5.4.1.Final\hibernate-release-5.4.1.Final\lib\optional\c3p0" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="205" key="org.eclipse.jdt.uiformatter_page.preference_scroll_position"/>
 	<item value="356" key="org.eclipse.jdt.uiformatter_page.last_focus_index"/>
 	<item value="935" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_rigth_width"/>
@@ -51,6 +51,8 @@
 		<item value="11" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="completion_proposal_size">
+		<item value="336" key="contextSelector.size.y"/>
+		<item value="346" key="contextSelector.size.x"/>
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
@@ -126,7 +128,7 @@
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item value="10" key="index"/>
+		<item value="3" key="index"/>
 	</section>
 	<section name="org.hibernate.eclipse.jdt.ui.wizards.JavaPackageSelectionDialog">
 		<item value="631" key="x"/>
