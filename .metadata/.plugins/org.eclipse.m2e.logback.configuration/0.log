@@ -2612,3 +2612,1027 @@ org.eclipse.core.runtime.CoreException: Launch configuration ComponentMappingTes
 2019-06-16 14:20:28,963 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj65-ComponentMapping\src\main\resources
 2019-06-16 14:20:28,963 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-16 14:20:28,963 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj65-ComponentMapping\src\test\resources
+2019-06-18 13:53:24,358 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-18 13:53:25,202 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-18 13:54:04,654 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-18 13:54:04,670 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-18 13:54:04,675 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-18 13:54:04,677 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-18 14:29:13,061 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:29:13,062 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-18 14:29:13,064 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:29:13,064 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-18 14:33:29,034 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:33:29,035 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-18 14:33:29,039 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:33:29,039 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-18 14:33:31,455 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:33:31,456 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-18 14:33:31,459 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:33:31,459 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-18 14:36:13,172 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:36:13,172 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-18 14:36:13,174 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:36:13,175 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-18 14:36:30,045 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:36:30,045 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-18 14:36:30,047 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 14:36:30,048 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 09:27:13,734 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-19 09:27:46,433 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-19 09:27:46,594 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-19 09:27:46,603 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-19 09:27:46,625 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-19 09:28:26,212 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:28:26,213 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 09:28:26,217 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:28:26,217 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 09:29:35,004 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:29:35,004 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 09:29:35,007 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:29:35,007 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 09:33:41,976 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:33:41,977 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 09:33:41,980 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:33:41,980 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 09:33:47,414 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:33:47,435 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 09:33:47,438 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 09:33:47,438 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:19:09,373 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-19 13:19:55,068 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-19 13:19:55,092 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-19 13:19:55,095 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-19 13:19:55,096 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-19 13:24:11,815 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:24:11,816 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:24:11,818 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:24:11,818 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:25:24,758 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:25:24,759 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:25:24,761 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:25:24,761 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:29:24,193 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:24,193 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:29:24,195 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:24,196 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:29:35,659 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:35,660 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:29:35,662 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:35,663 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:29:42,394 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:42,395 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:29:42,399 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:42,399 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:29:48,152 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:48,153 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\main\resources
+2019-06-19 13:29:48,155 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:29:48,155 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping\src\test\resources
+2019-06-19 13:39:20,943 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 13:39:20,945 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 13:39:20,952 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest references non-existing project HB-Proj67-InheritenceMapping.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 13:39:26,876 [Worker-41: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH\pom.xml.
+2019-06-19 13:39:27,898 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:27,899 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH\src\main\resources
+2019-06-19 13:39:27,901 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:27,901 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH\src\test\resources
+2019-06-19 13:39:29,753 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:29,758 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH\src\main\resources
+2019-06-19 13:39:29,759 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:29,759 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH\src\test\resources
+2019-06-19 13:39:36,305 [Worker-37: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\pom.xml.
+2019-06-19 13:39:36,672 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:36,672 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:39:36,690 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:36,690 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:39:38,429 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:38,429 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:39:38,442 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:39:38,443 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:42:21,351 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:42:21,351 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:42:21,351 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:42:21,351 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:43:19,260 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:43:19,260 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:43:19,264 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:43:19,264 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:44:43,445 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:44:43,446 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:44:43,448 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:44:43,448 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:45:00,203 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:00,203 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:45:00,203 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:00,203 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:45:11,059 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:11,059 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:45:11,059 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:11,059 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:45:23,409 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:23,409 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:45:23,409 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:23,409 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 13:45:42,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:42,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 13:45:42,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 13:45:42,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 14:00:06,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:00:06,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\main\resources
+2019-06-19 14:00:06,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:00:06,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC\src\test\resources
+2019-06-19 14:04:39,608 [Worker-41: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH-Strategy-1\pom.xml.
+2019-06-19 14:04:41,347 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:04:41,347 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-19 14:04:41,363 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:04:41,363 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-19 14:04:42,225 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:04:42,225 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-19 14:04:42,229 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:04:42,229 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj67-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-19 14:04:59,557 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 14:04:59,573 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 14:04:59,582 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (1) references non-existing project HB-Proj68-InheritenceMapping-TPSC.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-19 14:05:00,680 [Worker-51: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2\pom.xml.
+2019-06-19 14:05:01,119 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:05:01,120 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-19 14:05:01,121 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:05:01,122 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-19 14:05:02,685 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:05:02,685 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-19 14:05:02,685 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:05:02,685 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-19 14:07:30,157 [Worker-44: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\pom.xml.
+2019-06-19 14:07:30,407 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:30,407 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:07:30,407 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:30,407 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:07:32,072 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:32,072 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:07:32,072 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:32,072 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj68-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:07:41,755 [Worker-39: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\pom.xml.
+2019-06-19 14:07:42,301 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:42,301 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:07:42,301 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:42,301 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:07:43,878 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:43,878 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:07:43,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:07:43,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:08:57,310 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:08:57,325 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:08:57,325 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:08:57,325 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:10:52,951 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:10:52,951 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:10:52,955 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:10:52,955 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:11:10,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:11:10,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:11:10,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:11:10,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:11:43,593 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:11:43,593 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:11:43,595 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:11:43,595 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:12:12,616 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:12:12,616 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:12:12,616 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:12:12,629 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:13:20,950 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:13:20,950 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:13:20,950 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:13:20,950 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:14:33,443 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:33,444 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:14:33,445 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:33,445 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:14:48,964 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:48,964 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:14:48,964 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:48,964 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:14:54,332 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:54,332 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:14:54,332 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:14:54,332 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:16:13,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:16:13,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:16:13,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:16:13,893 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-19 14:18:03,837 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:18:03,838 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\main\resources
+2019-06-19 14:18:03,838 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 14:18:03,838 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj69-InheritenceMapping-TPSC-Strategy-2-Discriminator-column\src\test\resources
+2019-06-20 12:06:14,027 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-20 12:07:15,280 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 12:07:15,308 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-20 12:07:15,313 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 12:07:15,315 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-20 12:07:43,912 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\pom.xml.
+2019-06-20 12:07:45,294 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:07:45,294 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\main\resources
+2019-06-20 12:07:45,295 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:07:45,296 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\test\resources
+2019-06-20 12:07:47,330 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:07:47,330 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\main\resources
+2019-06-20 12:07:47,332 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:07:47,333 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\test\resources
+2019-06-20 12:14:27,032 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:14:27,032 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\main\resources
+2019-06-20 12:14:27,032 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:14:27,032 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\test\resources
+2019-06-20 12:14:44,122 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:14:44,122 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\main\resources
+2019-06-20 12:14:44,122 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:14:44,122 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\test\resources
+2019-06-20 12:15:56,720 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:15:56,720 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\main\resources
+2019-06-20 12:15:56,728 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 12:15:56,728 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3\src\test\resources
+2019-06-20 12:30:42,975 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-20 12:31:52,187 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 12:31:52,204 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-20 12:31:52,210 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 12:31:52,212 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-20 18:22:02,705 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-20 18:22:38,191 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 18:22:38,236 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-20 18:22:38,240 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-20 18:22:38,244 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-20 18:24:10,883 [Worker-0: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-20 18:24:10,893 [Worker-0: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-20 18:24:12,000 [Worker-0: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+org.eclipse.core.runtime.CoreException: Launch configuration InheritanceMappingTest (3) references non-existing project HB-Proj70-InheritenceMapping-TPCC-Strategy-3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.100.v20181201-1650.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-20 18:24:16,900 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3-Union\pom.xml.
+2019-06-20 18:24:18,186 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:24:18,186 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-20 18:24:18,189 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:24:18,189 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-20 18:24:20,232 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:24:20,232 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-20 18:24:20,235 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:24:20,235 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj70-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-20 18:25:29,129 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj67-InheritenceMapping:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\pom.xml.
+2019-06-20 18:25:29,861 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:25:29,862 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:25:29,864 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:25:29,865 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:25:31,555 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:25:31,555 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:25:31,559 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:25:31,559 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:29:50,674 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:29:50,674 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:29:50,679 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:29:50,680 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:31:02,366 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:02,370 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:31:02,373 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:02,373 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:31:24,565 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:24,566 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:31:24,570 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:24,571 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:31:39,562 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:39,563 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:31:39,566 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:31:39,567 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:33:50,932 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:33:50,932 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:33:50,934 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:33:50,936 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:34:57,481 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:57,482 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:34:57,484 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:57,485 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:35:25,250 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:35:25,251 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:35:25,254 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:35:25,255 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:36:19,494 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:36:19,494 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:36:19,497 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:36:19,498 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-20 18:36:43,439 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:36:43,440 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-20 18:36:43,442 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:36:43,442 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-22 13:26:51,953 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-22 13:28:02,733 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-22 13:28:02,766 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-22 13:28:02,771 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-22 13:28:02,772 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-22 13:32:42,853 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\pom.xml
+2019-06-22 13:32:46,234 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\pom.xml.
+2019-06-22 13:32:47,225 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1/src/main/java
+2019-06-22 13:32:47,251 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1/src/test/java
+2019-06-22 13:32:47,557 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-06-22 13:32:50,122 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:32:50,122 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:32:50,124 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:32:50,124 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:33:28,166 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\pom.xml.
+2019-06-22 13:33:28,785 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:33:28,786 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:33:28,788 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:33:28,788 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:33:31,199 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:33:31,200 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:33:31,203 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:33:31,203 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:42:28,580 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:42:28,581 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:42:28,584 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:42:28,585 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:42:57,104 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:42:57,104 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:42:57,106 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:42:57,107 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:43:04,018 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:04,020 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:43:04,023 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:04,023 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:43:19,301 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:19,302 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:43:19,308 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:19,309 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:43:34,988 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:34,989 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:43:34,991 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:34,991 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:43:44,034 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:44,035 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:43:44,037 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:44,037 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:43:52,670 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:52,671 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:43:52,673 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:43:52,674 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:44:00,024 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:44:00,025 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:44:00,027 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:44:00,027 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:45:50,985 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:45:50,985 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:45:50,987 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:45:50,989 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:54:16,741 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:54:16,742 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:54:16,744 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:54:16,745 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:57:50,216 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:57:50,216 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:57:50,219 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:57:50,220 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 13:58:48,821 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:58:48,822 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 13:58:48,827 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 13:58:48,827 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:00:47,765 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:00:47,765 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:00:47,766 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:00:47,767 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:02:19,360 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:02:19,361 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:02:19,364 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:02:19,365 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:02:28,726 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:02:28,727 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:02:28,730 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:02:28,731 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:03:04,594 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:03:04,595 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:03:04,597 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:03:04,598 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:05:49,232 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:05:49,233 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:05:49,235 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:05:49,236 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:07:43,298 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:07:43,298 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:07:43,300 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:07:43,301 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:07:59,857 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:07:59,857 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:07:59,859 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:07:59,862 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:09:06,681 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:09:06,682 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:09:06,685 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:09:06,686 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:11:35,520 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:11:35,520 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:11:35,521 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:11:35,522 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:12:15,813 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:15,814 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:12:15,815 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:15,816 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:12:40,436 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:40,437 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:12:40,441 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:40,442 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:12:51,284 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:51,285 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:12:51,289 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:12:51,291 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:13:37,926 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:13:37,926 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:13:37,928 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:13:37,929 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:14:01,265 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:01,265 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:14:01,267 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:01,268 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:14:28,775 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:28,776 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:14:28,778 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:28,778 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:14:55,871 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:55,872 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:14:55,875 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:14:55,876 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:15:47,510 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:15:47,511 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:15:47,513 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:15:47,514 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:18:03,093 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:18:03,093 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:18:03,095 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:18:03,096 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:23:51,410 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:23:51,410 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:23:51,411 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:23:51,411 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:25:43,774 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:25:43,774 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:25:43,779 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:25:43,779 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:27:17,937 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:17,937 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:27:17,940 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:17,940 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:27:31,453 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:31,453 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:27:31,454 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:31,454 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:27:55,981 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:55,981 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:27:55,983 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:27:55,984 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:28:38,425 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:28:38,426 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:28:38,427 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:28:38,428 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:28:57,248 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:28:57,248 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:28:57,254 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:28:57,254 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:30:10,707 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:30:10,713 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:30:10,715 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:30:10,715 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:31:36,507 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:31:36,507 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:31:36,507 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:31:36,510 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:31:44,577 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:31:44,578 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:31:44,580 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:31:44,580 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:32:07,648 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:32:07,649 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:32:07,650 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:32:07,651 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:33:41,311 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:33:41,311 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:33:41,311 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:33:41,311 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:34:02,930 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:34:02,931 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:34:02,932 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:34:02,932 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:35:12,255 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:35:12,255 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:35:12,256 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:35:12,258 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:35:21,866 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:35:21,866 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:35:21,867 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:35:21,867 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:37:05,510 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:37:05,510 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:37:05,510 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:37:05,510 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:43:57,849 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPCH-Strategy-2\pom.xml.
+2019-06-22 14:43:58,917 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:43:58,917 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPCH-Strategy-2\src\main\resources
+2019-06-22 14:43:58,918 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:43:58,918 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPCH-Strategy-2\src\test\resources
+2019-06-22 14:44:00,718 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:44:00,718 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPCH-Strategy-2\src\main\resources
+2019-06-22 14:44:00,720 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:44:00,720 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPCH-Strategy-2\src\test\resources
+2019-06-22 14:44:46,879 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:44:46,879 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:44:46,879 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:44:46,879 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:45:46,643 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:45:46,643 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:45:46,643 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:45:46,643 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:46:32,996 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:46:32,996 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:46:32,996 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:46:32,996 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:51:27,118 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:51:27,118 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:51:27,123 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:51:27,123 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:52:43,681 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:52:43,681 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:52:43,694 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:52:43,694 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:53:47,910 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:53:47,910 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:53:47,910 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:53:47,910 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:53:57,387 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:53:57,387 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:53:57,388 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:53:57,388 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:56:10,945 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:56:10,945 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:56:10,948 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:56:10,948 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:56:38,567 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:56:38,567 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:56:38,569 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:56:38,569 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:57:18,923 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:18,924 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 14:57:18,924 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:18,924 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 14:57:39,070 [Worker-68: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\pom.xml.
+2019-06-22 14:57:39,921 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:39,921 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 14:57:39,923 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:39,924 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 14:57:41,513 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:41,513 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 14:57:41,513 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:57:41,513 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 14:58:30,714 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:58:30,714 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 14:58:30,714 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:58:30,714 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 14:59:29,194 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:59:29,194 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 14:59:29,197 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 14:59:29,198 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:00:54,704 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:00:54,704 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:00:54,704 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:00:54,704 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:01:01,880 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:01:01,880 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:01:01,880 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:01:01,880 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:01:07,000 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:01:07,000 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:01:07,000 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:01:07,000 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:02:39,630 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:02:39,630 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:02:39,636 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:02:39,637 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:02:53,540 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:02:53,540 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:02:53,540 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:02:53,540 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:03:25,841 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:03:25,842 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:03:25,843 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:03:25,843 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:12:06,063 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:12:06,063 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:12:06,063 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:12:06,063 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:14:23,929 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:23,929 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:14:23,929 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:23,929 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:14:30,655 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:30,655 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:14:30,660 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:30,661 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:14:43,467 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:43,469 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:14:43,469 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:14:43,469 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:15:45,581 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:45,581 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:15:45,581 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:45,581 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:15:49,792 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:49,792 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:15:49,792 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:49,792 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:15:59,235 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:59,235 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:15:59,236 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:15:59,237 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:17:04,841 [Worker-63: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\pom.xml.
+2019-06-22 15:17:05,119 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:05,119 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:17:05,119 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:05,119 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:17:06,816 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:06,816 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:17:06,819 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:06,819 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:17:18,838 [Worker-72: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\pom.xml.
+2019-06-22 15:17:19,345 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:19,345 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:17:19,345 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:19,345 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:17:21,067 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:21,068 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:17:21,069 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:17:21,070 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:21:51,955 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:21:51,955 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 15:21:51,955 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:21:51,955 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 15:22:17,979 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:22:17,979 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:22:17,980 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:22:17,980 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:54:39,042 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:54:39,044 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:54:39,048 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:54:39,048 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:55:06,908 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:06,908 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:55:06,908 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:06,908 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:55:20,521 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:20,521 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:55:20,522 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:20,522 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:55:27,694 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:27,695 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:55:27,695 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:55:27,695 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 15:59:49,400 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:59:49,400 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 15:59:49,400 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 15:59:49,400 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 16:02:06,930 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 16:02:06,930 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 16:02:06,930 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 16:02:06,945 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 16:19:14,103 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 16:19:14,110 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 16:19:14,112 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 16:19:14,112 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 21:17:29,399 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-22 21:17:34,162 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-22 21:18:15,859 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-22 21:18:15,903 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-22 21:18:15,905 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-22 21:18:15,911 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-22 21:19:14,434 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:19:14,434 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 21:19:14,437 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:19:14,437 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 21:21:09,577 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:21:09,577 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 21:21:09,598 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:21:09,599 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 21:21:16,321 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:21:16,321 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\main\resources
+2019-06-22 21:21:16,321 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:21:16,321 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1\src\test\resources
+2019-06-22 21:24:30,673 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:24:30,673 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 21:24:30,673 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:24:30,673 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 21:26:42,692 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:26:42,692 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-22 21:26:42,692 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:26:42,707 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-22 21:31:48,049 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:31:48,049 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 21:31:48,049 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:31:48,049 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-22 21:31:56,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:31:56,862 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\main\resources
+2019-06-22 21:31:56,869 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-22 21:31:56,869 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj74-Anno-InheritenceMapping-TPSC-Strategy-2-DiscriminatorColumn\src\test\resources
+2019-06-24 18:17:20,630 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-24 18:17:57,217 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-24 18:17:57,313 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 18:17:57,322 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-24 18:17:57,358 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj62-Pagination\src\test\resources
+2019-06-24 18:21:25,136 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:21:25,136 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-24 18:21:25,139 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:21:25,139 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-24 18:21:41,823 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:21:41,823 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-24 18:21:41,826 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:21:41,826 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-24 18:22:24,600 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:22:24,600 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-24 18:22:24,603 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:22:24,604 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-24 18:22:25,647 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:22:25,648 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\main\resources
+2019-06-24 18:22:25,650 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:22:25,650 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj71-InheritenceMapping-TPCC-Strategy-3-Implicit-Polymorphism\src\test\resources
+2019-06-24 18:23:36,318 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1:0.0.1-SNAPSHOT @ F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\pom.xml.
+2019-06-24 18:23:36,924 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:23:36,924 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:23:36,927 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:23:36,927 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:23:38,962 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:23:38,962 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:23:38,964 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:23:38,965 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:24:45,856 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:24:45,856 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:24:45,863 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:24:45,864 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:26:58,030 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:26:58,030 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:26:58,032 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:26:58,033 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:27:31,641 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:27:31,642 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:27:31,644 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:27:31,644 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:27:57,437 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:27:57,437 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:27:57,439 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:27:57,440 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:35:04,467 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:35:04,467 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:35:04,469 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:35:04,470 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:36:06,688 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:36:06,689 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:36:06,690 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:36:06,691 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:36:22,585 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:36:22,585 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\main\resources
+2019-06-24 18:36:22,587 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:36:22,587 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj75-Anno-InheritenceMapping-TPCC-Strategy-3-Union\src\test\resources
+2019-06-24 18:50:00,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:50:00,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:50:00,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:50:00,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:50:24,118 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:50:24,118 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:50:24,134 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:50:24,134 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:55:43,329 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:43,329 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:55:43,329 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:43,329 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:55:47,094 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:47,094 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:55:47,094 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:47,094 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:55:53,514 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:53,514 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:55:53,514 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:53,514 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:55:57,779 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:57,779 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:55:57,779 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:55:57,779 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:56:07,339 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:56:07,339 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:56:07,339 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:56:07,339 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
+2019-06-24 18:56:20,936 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:56:20,936 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\main\resources
+2019-06-24 18:56:20,952 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 18:56:20,952 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HibernateFrameWorkWS\HB-Proj73-Anno-InheritenceMapping-TPSC-Strategy-2\src\test\resources
