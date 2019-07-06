@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 4 Jul, 2019 9:48:46 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.EmpDetails" table="EMP_DETAILS">
+        <id name="empno" type="int">
+            <column name="EMPNO" length="6"/>
+            <generator class="sequence"/>
+        </id>
+        <property name="ename" type="string">
+            <column name="ENAME" length="10"/>
+        </property>
+        <property name="job" type="string">
+            <column name="JOB" length="10"/>
+        </property>
+        <property name="sal" type="int">
+            <column name="SAL" length="10"/>
+        </property>
+        <many-to-one name="dept" class="com.nt.entity.Department" cascade="all" lazy="proxy">
+            <column name="DEPT" length="6"/>
+        </many-to-one>
+    </class>
+</hibernate-mapping>

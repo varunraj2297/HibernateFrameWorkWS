@@ -17,14 +17,9 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.hibernate.eclipse.console.wizards.NewConfigurationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jdt.ui.java"/>
-			<item value="org.eclipse.jst.j2ee.internal"/>
-			<item value="org.eclipse.jpt.jaxb"/>
-			<item value="Oracle"/>
-			<item value="Oracle/WebLogic"/>
-			<item value="Oracle/WebLogic/Configuration"/>
+			<item value="hibernatewizards"/>
 		</list>
 	</section>
 	<section name="InstallationDialogSettings">

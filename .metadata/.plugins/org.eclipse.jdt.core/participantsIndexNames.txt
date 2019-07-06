@@ -11,6 +11,8 @@ F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3
 \HB-Proj20-WebBasedLayeredApplication-ContextualSession\src
 F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2153885311.index
 \HB-Proj17-WebBasedLayeredApplication\src
+F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\321924617.index
+\HB-Proj18-WebBasedLayeredApplicationWL\src
 F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\321924617.index
 \HB-Proj18-WebBasedLayeredApplicationWL\src
 F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4004750535.index

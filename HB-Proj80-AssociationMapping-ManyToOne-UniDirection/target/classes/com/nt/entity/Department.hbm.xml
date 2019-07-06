@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 4 Jul, 2019 9:48:46 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Department" table="DEPT_DETAILS">
+        <id name="deptno" type="int">
+            <column name="DEPTNO" length="6" />
+            <generator class="increment"/>
+        </id>
+        <property name="dname" type="string">
+            <column name="DNAME" length="10"/>
+        </property>
+        <property name="dloc" type="string">
+            <column name="DLOC" length="10"/>
+        </property>
+    </class>
+</hibernate-mapping>
