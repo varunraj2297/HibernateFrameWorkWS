@@ -70,7 +70,7 @@ public class OneToManyDAOImpl implements OneToManyDAO{
 	}
 
 	@Override
-	public void loadData() {
+	public void loadData() {  
 		Session ses=null;
 		Query query=null;
 		List<User> list=null;
@@ -78,6 +78,29 @@ public class OneToManyDAOImpl implements OneToManyDAO{
 		
 		ses=HibernateUtil.getSession();
 		query=ses.createQuery("from User");
+		list=query.getResultList();
+		list.forEach(user->{
+			System.out.println("parent::"+user);
+			Set<Phones> phonesSet=user.getPhones();
+			phonesSet.forEach(phone->{
+				System.out.println("child::"+phone);
+			});
+		});
+		
+		HibernateUtil.closeSession(ses);
+		
+         		
+	}
+	
+	@Override
+	public void loadDataNplus1SelectSolution() {  
+		Session ses=null;
+		Query query=null;
+		List<User> list=null;
+		
+		
+		ses=HibernateUtil.getSession();
+		query=ses.createQuery("select u from User u inner join fetch u.phones ph");
 		list=query.getResultList();
 		list.forEach(user->{
 			System.out.println("parent::"+user);

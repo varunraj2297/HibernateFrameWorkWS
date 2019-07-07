@@ -12,10 +12,11 @@ public class OneToManyTest {
 		
 		//dao.saveData();
 		//dao.loadData();
+		dao.loadDataNplus1SelectSolution();
 		//dao.loadDataUsingStreamAPI();
 		//dao.loadDataUsingParentByUserId(1);
 		//dao.deleteDataUsingParentByUserId(1);
-		dao.deleteAllChildsOfAParentByUserId(3);
+		//dao.deleteAllChildsOfAParentByUserId(3);
 		//dao.deleteOneChildfromCollectionOfChildsOfAParentByUserId(2);
 		
 		HibernateUtil.closeSessionFactory();

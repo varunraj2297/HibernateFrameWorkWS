@@ -10,13 +10,13 @@ public class ManyToOneTest {
 		ManyToOneDAO dao=null;
 		dao=ManyToOneDAOFactory.getInstance();
 		
-		dao.saveData();
-		//dao.loadData();
+		//dao.saveData();
+		dao.loadData();
 		//dao.loadDataUsingStreamAPI();
 		//dao.loadDataUsingParentByUserId(1);
 		//dao.deleteDataUsingParentByUserId(1);
 		//dao.deleteAllChildsOfAParentByUserId(3);
-		//dao.deleteOneChildfromCollectionOfChildsOfAParentByUserId();
+		//dao.deleteOneChildfromCollectionOfChildsOfAParentByUserId(1);
 		//dao.deleteAllChildsWithParent();
 		
 		HibernateUtil.closeSessionFactory();

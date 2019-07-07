@@ -66,22 +66,19 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 		}
 	}
 
-	/*@Override
+	@Override
 	public void loadData() {
 		Session ses=null;
 		Query query=null;
-		List<User> list=null;
+		List<EmpDetails> list=null;
 		
 		
 		ses=HibernateUtil.getSession();
-		query=ses.createQuery("from User");
+		query=ses.createQuery("from EmpDetails");
 		list=query.getResultList();
-		list.forEach(user->{
-			System.out.println("parent::"+user);
-			Set<Phones> phonesSet=user.getPhones();
-			phonesSet.forEach(phone->{
-				System.out.println("child::"+phone);
-			});
+		list.forEach(emp->{
+			System.out.println("child::"+emp);
+			System.out.println("parent::"+emp.getDept());
 		});
 		
 		HibernateUtil.closeSession(ses);
@@ -89,7 +86,7 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 	     		
 	}
 	
-	@Override
+	/*@Override
 	public void loadDataUsingStreamAPI() {
 		Session ses=null;
 		Query query=null;
@@ -269,8 +266,8 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 	}*/
 	
 	
-	/*@Override
-	public void deleteOneChildfromCollectionOfChildsOfAParentByUserId() {
+	@Override
+	public void deleteOneChildfromCollectionOfChildsOfAParentByUserId(int userid) {
 		Session ses=null;
 		//Query query=null;
 		Department dept=null;
@@ -284,8 +281,8 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 		//query=ses.createQuery("from EmpDetails");
 		//list=query.getResultList();
 		//System.out.println(list);
-		ed=ses.get(EmpDetails.class,2);
-		ed.setDept(null);
+		ed=ses.get(EmpDetails.class,7);
+		//ed.setDept(null);
 		try {
 			//user=ses.get(User.class, userId);
 			//childs=user.getPhones();
@@ -314,7 +311,7 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 			HibernateUtil.closeSession(ses);
 		}
 		
-	}*/
+	}
 	
 	
 	
@@ -360,7 +357,7 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 	
 	@Override
 	public void deleteAllChildsWithParent() {
-		Session ses=null;
+		
 		Query query=null;
 		Department dept=null;
 		EmpDetails ed=null;
@@ -369,7 +366,7 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 		boolean flag=false;
 		
 		
-		ses=HibernateUtil.getSession();
+		Session ses=HibernateUtil.getSession();
 		query=ses.createQuery("from EmpDetails");
 		list=query.getResultList();
 		System.out.println(list);
@@ -379,7 +376,9 @@ public class ManyToOneDAOImpl implements ManyToOneDAO{
 			//childs=user.getPhones();
 			//phone=ses.get(Phones.class,7032377196L);
 			tx=ses.beginTransaction();
-			 list.clear();
+			 list.forEach(user->{
+				 ses.delete(user);
+			 });
 			flag=true;
 		}
 		catch (HibernateException he) {
