@@ -120,7 +120,7 @@ public class OneToManyDAOImpl implements OneToManyDAO{
 		
 	}
 	@Override
-	public void loadData() {
+	public void loadDataUsingParentToChild() {
 		Session ses=null;
 		Query query=null;
 		List<User> list=null;
@@ -142,6 +142,23 @@ public class OneToManyDAOImpl implements OneToManyDAO{
          		
 	}
 	
+	
+	@Override
+	public void loadDataUsingChildToParent() {
+		Session ses=null;
+		Phones phones=null;
+		Query query=null;
+		List<Phones> list=null;
+		
+		ses=HibernateUtil.getSession();
+		query=ses.createQuery("from Phones");
+		list=query.getResultList();
+		list.forEach(phone->{
+			System.out.println("child::"+phone);
+			System.out.println("parent::"+phone.getUser());
+		});
+		
+	}
 	@Override
 	public void loadDataUsingStreamAPI() {
 		Session ses=null;

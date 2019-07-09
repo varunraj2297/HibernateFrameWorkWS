@@ -14,7 +14,7 @@
         <property name="address" type="string">
             <column name="ADDRESS"  length="10"/>
         </property>
-        <set name="phones" table="PHONES" cascade="all-delete-orphan" lazy="extra">
+        <set name="phones" table="PHONES" cascade="all-delete-orphan" lazy="extra" inverse="true">
             <key column="USER_ID"/>
             <one-to-many class="com.nt.entity.Phones" />
         </set>

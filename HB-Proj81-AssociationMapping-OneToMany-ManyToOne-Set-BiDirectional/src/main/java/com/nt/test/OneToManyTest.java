@@ -11,8 +11,9 @@ public class OneToManyTest {
 		dao=OneToManyDAOFactory.getInstance();
 		
 		//dao.saveDataThroughParent();
-		dao.saveDataThroughChild();
-		//dao.loadData();
+		//dao.saveDataThroughChild();
+		//dao.loadDataUsingParentToChild();
+		dao.loadDataUsingChildToParent();
 		//dao.loadDataUsingStreamAPI();
 		//dao.loadDataUsingParentByUserId(1);
 		//dao.deleteDataUsingParentByUserId(1);

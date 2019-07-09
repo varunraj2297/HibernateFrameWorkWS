@@ -156,7 +156,7 @@ public class OneToManyDAOImpl implements OneToManyDAO{
 //	    query=ses.createQuery("select ph.phoneno,ph.provider,ph.numberType, u.userid,u.uname,u.address from Phones ph inner join ph.user u");
 //		query=ses.createQuery("select ph.phoneno,ph.provider,ph.numberType, u.userid,u.uname,u.address from Phones ph left join ph.user u");
 //		query=ses.createQuery("select ph.phoneno,ph.provider,ph.numberType, u.userid,u.uname,u.address from Phones ph right join ph.user u");
-		query=ses.createQuery("select ph.phoneno,ph.provider,phnumberType, u.userid,u.uname,u.address from Phones ph full join ph.user u");
+		query=ses.createQuery("select ph.phoneno,ph.provider,ph.numberType, u.userid,u.uname,u.address from Phones ph full join ph.user u");
 		
 		list=query.getResultList();
 		list.forEach(row->{

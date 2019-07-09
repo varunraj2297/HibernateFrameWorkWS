@@ -3,7 +3,8 @@ package com.nt.dao;
 public interface OneToManyDAO {
 	public void saveDataThroughParent();
 	public void saveDataThroughChild();
-	public void loadData();
+	public void loadDataUsingParentToChild();
+	public void loadDataUsingChildToParent();
 	public void loadDataUsingStreamAPI();
 	public void loadDataUsingParentByUserId(int userId);
 	public void deleteDataUsingParentByUserId(int userId);

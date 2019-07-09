@@ -8,7 +8,7 @@
 	<item value="718" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_left_width"/>
 	<item value="1714" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
 	<item value="760" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_height"/>
-	<item value="C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="F:\third party apis" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="205" key="org.eclipse.jdt.uiformatter_page.preference_scroll_position"/>
 	<item value="356" key="org.eclipse.jdt.uiformatter_page.last_focus_index"/>
 	<item value="935" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_rigth_width"/>
@@ -57,6 +57,7 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
 		<item value="false" key="updateQualifiedNames"/>
 		<item value="*" key="patterns"/>
 		<item value="false" key="updateSimilarElements"/>
@@ -128,7 +129,7 @@
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item value="3" key="index"/>
+		<item value="10" key="index"/>
 	</section>
 	<section name="org.hibernate.eclipse.jdt.ui.wizards.JavaPackageSelectionDialog">
 		<item value="631" key="x"/>

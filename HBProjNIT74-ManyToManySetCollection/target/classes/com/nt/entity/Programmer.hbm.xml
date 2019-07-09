@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 9 Jul, 2019 5:05:44 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Programmer" table="M2M_PROGRAMMER">
+        <id name="pid" type="int">
+            <column name="PID" />
+            <generator class="increment" />
+        </id>
+        <property name="pname" type="string">
+            <column name="PNAME"  length="15"/>
+        </property>
+        <property name="salary" type="float">
+            <column name="SALARY"  precision="2"  scale="10" />
+        </property>
+        <set name="projects" table="M2M_PROGRAMMERS_PROJECTS" inverse="true"  cascade="all" lazy="extra">
+            <key>
+                <column name="PROGRAMMERS_ID" />
+            </key>
+            <many-to-many class="com.nt.entity.Project"  column="PROJECTS_ID" />
+        </set>
+    </class>
+</hibernate-mapping>

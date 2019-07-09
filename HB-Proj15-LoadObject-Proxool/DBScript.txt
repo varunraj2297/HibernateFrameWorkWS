@@ -1,0 +1,1 @@
+create table insurancepolicydetails(policyid number(10) primary key,policyname varchar2(10),tenure number(10),company varchar2(10),initialamount number(10,2));
