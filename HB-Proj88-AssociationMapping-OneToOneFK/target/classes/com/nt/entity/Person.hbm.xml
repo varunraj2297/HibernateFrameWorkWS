@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 13 Jul, 2019 9:11:12 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Person" table="OTO_PERSON">
+        <id name="pid" type="int">
+            <column name="PID" />
+            <generator class="increment" />
+        </id>
+        <property name="pname" type="string">
+            <column name="PNAME" length="15"/>
+        </property>
+        <property name="age" type="byte">
+            <column name="AGE" length="3"/>
+        </property>
+    </class>
+</hibernate-mapping>

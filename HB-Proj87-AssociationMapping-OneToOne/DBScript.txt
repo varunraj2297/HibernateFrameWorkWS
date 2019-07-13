@@ -1,0 +1,1 @@
+create sequence stud_lib_seq start with 100 increment by 1;

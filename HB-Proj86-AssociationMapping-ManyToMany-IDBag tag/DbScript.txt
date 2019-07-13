@@ -1,0 +1,1 @@
+SQL> create sequence stud_seq start with 1000 increment by 1;

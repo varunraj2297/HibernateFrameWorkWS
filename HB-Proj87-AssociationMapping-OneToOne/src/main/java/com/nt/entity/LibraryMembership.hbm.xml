@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 12 Jul, 2019 11:41:55 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.LibraryMembership" table="O2O_LIBRARYMEMBERSHIP">
+        <id name="libid" type="int">
+            <column name="LIBID" length="10"/>
+            <generator class="foreign">
+                <param name="property">student</param>
+            </generator>
+        </id>
+        <property name="joinDate" type="date" >
+            <column name="JOINDATE"/>
+        </property>
+        <property name="libfee" type="float" precision="2" scale="10">
+            <column name="LIBFEE" />
+        </property>
+        <one-to-one name="student" class="com.nt.entity.Student" cascade="all"  lazy="false"/>
+    </class>
+</hibernate-mapping>

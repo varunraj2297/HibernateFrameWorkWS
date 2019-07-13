@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 8 Jul, 2019 7:52:24 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Student" table="STUDENT_DETAILS_M2M_IDBAG">
+        <id name="sid" type="int">
+            <column name="SID" length="6"/>
+            <generator class="sequence">
+               <param name="sequence_name">stud_seq</param>
+            </generator>
+        </id>
+        <property name="sname" type="string">
+            <column name="SNAME" length="15"/>
+        </property>
+        <property name="squalification" type="string">
+            <column name="SQUALIFICATION" length="15"/>
+        </property>
+        <set name="faculties" table="FACULTY_STUDENT_M2M_IDBAG" inverse="true" cascade="all" lazy="extra">
+            <key>
+                <column name="STUDENT_ID" length="6"/>
+            </key>
+            <many-to-many class="com.nt.entity.Faculty" column="FACULTY_ID"/>
+        </set>
+    </class>
+</hibernate-mapping>

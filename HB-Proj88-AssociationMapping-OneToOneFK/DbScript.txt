@@ -1,0 +1,1 @@
+create sequence pspt_seq start with 1000 increment by 1;

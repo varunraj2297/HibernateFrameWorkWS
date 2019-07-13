@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 8 Jul, 2019 7:52:24 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Faculty" table="FACULTY_DETAILS_M2M_IDBAG">
+        <id name="fid" type="int">
+            <column name="FID" length="6"/>
+            <generator class="increment" />
+        </id>
+        <property name="fname" type="string">
+            <column name="FNAME" length="15"/>
+        </property>
+        <property name="subject" type="string">
+            <column name="SUBJECT" length="15"/>
+        </property>
+        <idbag name="students" table="FACULTY_STUDENT_M2M_IDBAG" cascade="all"  lazy="extra">
+           <collection-id type="int" column="id">
+                <generator class="increment"/>
+           </collection-id>
+            <key>
+                <column name="FACULTY_ID" length="6"/>
+            </key>
+            <many-to-many class="com.nt.entity.Student" column="STUDENT_ID"/>
+        </idbag>
+    </class>
+</hibernate-mapping>
