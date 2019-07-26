@@ -66,17 +66,33 @@ public class OneToOnePKServiceImpl implements OneToOnePKService{
 			
 			library=student.getLibrary();
 			libraryDTO=new LibraryMembershipDTO();
+			if(library!=null) {
 			libraryDTO.setLibid(library.getLibid());
 			libraryDTO.setLibfee(library.getLibfee());
 			libraryDTO.setJoinDate(library.getJoinDate());
-	
+			
 			studentDTO.setLibrary(libraryDTO);
 			libraryDTO.setStudent(studentDTO);
-			
+			}
 			listStudentDTO.add(studentDTO);
 		});
 		
 		return listStudentDTO;
+	}
+
+	@Override
+	public void RemoveRecordUsingParent(int id) throws Exception {
+		dao.deleteStudentUsingParent(id);	
+	}
+
+	@Override
+	public String RemoveLibraryDetailsUsingChild(int id) throws Exception {
+		int count=0;
+		count=dao.deleteLibraryDetailsUsingChild(id);
+		if(count==0)
+			return "Library Details are not deleted for id::"+id;
+		else
+			return "Library Details are deleted for id::"+id;
 	}
    
 }

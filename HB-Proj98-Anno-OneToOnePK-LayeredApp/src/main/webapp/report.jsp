@@ -26,10 +26,10 @@
       <td>${dto.library.joinDate}</td>
       <td>${dto.library.libfee}</td>
       <td>
-         <a href="controller?option=deleteParent&id=${dto.sid}" onclick="return confirm('Are you sure to delete ${dto.sid} record?')"><img src="images/deleteIcon.png" width="30" height="30"></a>
+         <a href="controller?option=deleteParent&id=${dto.sid}" onclick="return confirm('Are you sure to delete ${dto.sid}  Parent record?')"><img src="images/deleteIcon.png" width="30" height="30"></a>
         </td>
          <td>
-         <a href="delete.htm?option=deleteChild&id=${dto.sid}" onclick="return confirm('Are you sure to delete ${dto.sid} record?')"><img src="images/deleteIcon.png" width="30" height="30"></a>
+         <a href="controller?option=deleteChild&id=${dto.library.libid}" onclick="return confirm('Are you sure to delete ${dto.library.libid} Child record?')"><img src="images/deleteIcon.png" width="30" height="30"></a>
          </td>
     </tr>
    </c:forEach>         

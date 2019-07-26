@@ -35,7 +35,7 @@ public class MainController extends HttpServlet {
 	}
 	
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-	       
+	       System.out.println("MainController.doGet()");
 	        String sname=null;
 	        float coursefee=0.0f;
 	        Date joinDate=null;
@@ -47,9 +47,10 @@ public class MainController extends HttpServlet {
 	        String path=null;
 	        String option=null;
 	        List<StudentDTO> listStudentDTO=null;
+	        int id=0;
 	        
 	        try {
-		        option=request.getParameter("pageName");
+		        option=request.getParameter("option");
 	        	if(option.equalsIgnoreCase("add")) {
 	              sname=request.getParameter("sname");
 	              coursefee=Float.parseFloat(request.getParameter("coursefee"));
@@ -75,14 +76,32 @@ public class MainController extends HttpServlet {
 				      listStudentDTO=service.fetchAllStudentDetails();
 				      request.setAttribute("listStudentDTO", listStudentDTO);
 				}else if(option.equalsIgnoreCase("deleteParent")) {
-				      listStudentDTO=service.fetchAllStudentDetails();
-				      request.setAttribute("resultMsg", resultMsg);
-				}
-	        	
 				
+					  id=Integer.parseInt(request.getParameter("id"));
+				      service.RemoveRecordUsingParent(id);
+				      resultMsg="Student Object of id "+id+" is Deleted";
+				      request.setAttribute("resultMsg", resultMsg);
+				      
+					  listStudentDTO=service.fetchAllStudentDetails();
+				      request.setAttribute("listStudentDTO", listStudentDTO);
+					
+				}else if(option.equalsIgnoreCase("deleteChild")) {
+					
+					  id=Integer.parseInt(request.getParameter("id"));
+				      resultMsg=service.RemoveLibraryDetailsUsingChild(id);
+				      request.setAttribute("resultMsg", resultMsg);
+				      
+				      listStudentDTO=service.fetchAllStudentDetails();
+				      request.setAttribute("listStudentDTO", listStudentDTO);
+					
+				}
 	        	path="/report.jsp";
 	        }
 	        catch (Exception e) {
+	        	if(option.equals("deleteParent")) {
+	        	          resultMsg="Student Object of id "+id+" is Deleted";
+	        	          request.setAttribute("resultMsg", resultMsg);
+	        	}
 	        	e.printStackTrace();
 	        	path="/error.jsp";
 			}

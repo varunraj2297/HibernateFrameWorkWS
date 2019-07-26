@@ -48,16 +48,17 @@ public class OneToOnePKDAOImpl  implements OneToOnePKDAO{
 	@Override
 	public List<Student> getStudentDetailsUsingParent() throws Exception {
 		Session ses=null;
+		Transaction tx=null;
 		CriteriaBuilder builder=null;
 		CriteriaQuery<Student> ctQuery=null;
 		Root<Student> root=null;
 		Query<Student> query=null;
 		List<Student> listStudent=null;
 		
-		
+		try {
 		ses=HibernateUtil.getSession();
 		
-		ses.beginTransaction();
+		tx=ses.beginTransaction();
 		
 		builder=ses.getCriteriaBuilder();
 		ctQuery=builder.createQuery(Student.class);
@@ -66,7 +67,14 @@ public class OneToOnePKDAOImpl  implements OneToOnePKDAO{
 		
 		query=ses.createQuery(ctQuery);
 		listStudent=query.getResultList();
-		
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+		finally {
+			tx.commit();
+		}
 		return listStudent;
 	}
 
@@ -89,10 +97,32 @@ public class OneToOnePKDAOImpl  implements OneToOnePKDAO{
 			throw e;
 		}
 		finally {
-			if(isDeleted) {
+			if(isDeleted) 
 				tx.commit();
-			}
-			
+			else 
+			   tx.rollback();
+	}
+  }
+
+	@Override
+	public int deleteLibraryDetailsUsingChild(int id) throws Exception {
+		Session ses=null;
+		Query query=null;
+		int count=0;
+		Transaction tx=null;
+		try {
+		ses=HibernateUtil.getSession();
+		tx=ses.beginTransaction();
+		query=ses.createQuery("delete from LibraryMembership where libid=:id");
+		query.setParameter("id",id);
+		count=query.executeUpdate();
 		}
+		catch (Exception e) {
+            throw e;
+		}
+		finally {
+			tx.commit();
+		}
+		return count;
 	}
 }
