@@ -5,10 +5,14 @@ F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\72
 \HB-Pro62-Pagination\src\main\resources
 F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3351231079.index
 \HB-Proj20-WebBasedLayeredApplication-ContextualSession\src
+F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3702709162.index
+\HB-Proj98-Anno-OneToOnePK-LayeredApp\src\main\resources
 F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\210936541.index
 \HB-Proj19-WebBasedLayeredApplication-loadMethod\src
 F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3351231079.index
 \HB-Proj20-WebBasedLayeredApplication-ContextualSession\src
+F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2842146160.index
+\HB-Proj98-Anno-OneToOnePK-LayeredApp\src\main\java
 F:\HibernateFrameWorkWS2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2153885311.index
 \HB-Proj17-WebBasedLayeredApplication\src
 F:\HibernateFrameWorkWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\321924617.index
