@@ -7,7 +7,7 @@
 <listEntry value="4"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="HB-Proj45-Anno-NamedHQL"/>
-<stringAttribute key="org.hibernate.eclipse.launch.CFG_XML_FILE" value="\HB-Proj45-Anno-NamedHQL\src\com\nt\cfgs\hibernate.cfg.xml"/>
+<stringAttribute key="org.hibernate.eclipse.launch.CFG_XML_FILE" value="\HB-Proj045-Anno-NamedHQL\src\com\nt\cfgs\hibernate.cfg.xml"/>
 <stringAttribute key="org.hibernate.eclipse.launch.CONFIGURATION_FACTORY" value="ANNOTATIONS"/>
 <stringAttribute key="org.hibernate.eclipse.launch.CONNECTION_PROFILE_NAME" value="OracleDb"/>
 <listAttribute key="org.hibernate.eclipse.launch.FILE_MAPPINGS"/>

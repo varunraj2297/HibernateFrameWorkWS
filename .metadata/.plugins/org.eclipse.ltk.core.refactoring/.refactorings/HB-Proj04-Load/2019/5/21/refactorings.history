@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;GetMethodTest.java&apos; to &apos;HB-Proj40-GUI-Tools/src/com.nt.test&apos;&#x0D;&#x0A;- Original project: &apos;HB-Proj04-Load&apos;&#x0D;&#x0A;- Destination element: &apos;HB-Proj40-GUI-Tools/src/com.nt.test&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.test.GetMethodTest.java&apos;" description="Copy compilation unit" destination="=HB-Proj40-GUI-Tools/src&lt;com.nt.test" element1="/src&lt;com.nt.test{GetMethodTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1558706860445" units="1" version="1.0"/>
-</session>

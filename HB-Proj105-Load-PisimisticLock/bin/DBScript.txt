@@ -1,0 +1,3 @@
+create table InsurancePolicy(InsuranceId number(10) primary key,InsuranceName varchar2(10),InitialAmount number(10),Tenure number(10));
+
+Table created.

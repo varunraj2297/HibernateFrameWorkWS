@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-<fullyQualifiedTypeName name="org.hibernate.annotations.GeneratorType"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="lombok.Data"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinColumns"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
-<fullyQualifiedTypeName name="javax.print.Doc"/>
-<fullyQualifiedTypeName name="com.nt.entity.Doctor"/>
-<fullyQualifiedTypeName name="com.nt.entity.Patient"/>
-<fullyQualifiedTypeName name="lombok.Getter"/>
-<fullyQualifiedTypeName name="lombok.Setter"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CollectionType"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CollectionId"/>
 <fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
@@ -22,8 +7,6 @@
 <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
 <fullyQualifiedTypeName name="com.nt.entity.Blog"/>
 <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
-<fullyQualifiedTypeName name="javax.persistence.Id"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.GenericGenerator"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Parameter"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
@@ -31,7 +14,6 @@
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
 <fullyQualifiedTypeName name="javax.persistence.PrimaryKeyJoinColumn"/>
-<fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
 <fullyQualifiedTypeName name="com.nt.dao.OneToOnePKDAO"/>
 <fullyQualifiedTypeName name="com.nt.entity.LibraryMembership"/>
 <fullyQualifiedTypeName name="com.nt.dao.OneToOnePKDAOImpl"/>
@@ -41,7 +23,6 @@
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 <fullyQualifiedTypeName name="java.lang.Float"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaBuilder"/>
 <fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaQuery"/>
 <fullyQualifiedTypeName name="javax.persistence.criteria.Root"/>
@@ -52,12 +33,31 @@
 <fullyQualifiedTypeName name="com.nt.service.OneToOnePKServiceFactory"/>
 <fullyQualifiedTypeName name="com.nt.service.OneToOnePKService"/>
 <fullyQualifiedTypeName name="com.nt.service.OneToOnePKServiceImpl"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.nt.dto.StudentDTO"/>
 <fullyQualifiedTypeName name="com.nt.entity.Student"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="org.hibernate.query.Query"/>
-<fullyQualifiedTypeName name="com.nt.utility.HibernateUtil"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="com.nt.dao.BankAccountDAOImpl"/>
+<fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+<fullyQualifiedTypeName name="com.nt.dao.BankAccountDAO"/>
+<fullyQualifiedTypeName name="com.nt.dao.BankAccountDAOFactory"/>
+<fullyQualifiedTypeName name="net.bytebuddy.asm.Advice.ArgumentHandler.Factory"/>
+<fullyQualifiedTypeName name="com.nt.util.HibernateUtil"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="org.hibernate.Query"/>
+<fullyQualifiedTypeName name="org.hibernate.query.Query"/>
+<fullyQualifiedTypeName name="javax.persistence.Cacheable"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Cache"/>
+<fullyQualifiedTypeName name="com.nt.utility.HibernateUtil"/>
 <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="com.nt.entity.InsurancePolicy"/>
+<fullyQualifiedTypeName name="org.hibernate.LockMode"/>
 </qualifiedTypeNameHistroy>

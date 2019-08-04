@@ -30,10 +30,10 @@
 <booleanAttribute key="org.hibernate.tools.exporters.org.hibernate.tools.query" value="false"/>
 <stringAttribute key="org.hibernate.tools.exporters.org.hibernate.tools.query.extension_id" value="org.hibernate.tools.query"/>
 <booleanAttribute key="org.hibernate.tools.jdk5" value="false"/>
-<stringAttribute key="org.hibernate.tools.outputdir" value="\HB-Proj45-Anno-NamedHQL\src"/>
+<stringAttribute key="org.hibernate.tools.outputdir" value="\HB-Proj045-Anno-NamedHQL\src"/>
 <stringAttribute key="org.hibernate.tools.package" value="com.nt.entity"/>
 <booleanAttribute key="org.hibernate.tools.prefercompositeids" value="true"/>
-<stringAttribute key="org.hibernate.tools.revEngFile" value="\HB-Proj45-Anno-NamedHQL\src\com\nt\cfgs\hibernate.reveng.xml"/>
+<stringAttribute key="org.hibernate.tools.revEngFile" value="\HB-Proj045-Anno-NamedHQL\src\com\nt\cfgs\hibernate.reveng.xml"/>
 <booleanAttribute key="org.hibernate.tools.reveng.detect_many_to_many" value="true"/>
 <booleanAttribute key="org.hibernate.tools.reveng.detect_one_to_one" value="true"/>
 <booleanAttribute key="org.hibernate.tools.reveng.detect_optimistc_lock" value="true"/>

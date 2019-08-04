@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 28 Jul, 2019 6:20:53 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.BankAccount" table="BANKACCOUNT">
+        <id name="acno" type="int">
+            <column name="ACNO"  length="10"/>
+            <generator class="increment" />
+        </id>
+        <property name="holderName" type="string">
+            <column name="HOLDERNAME"  length="10"/>
+        </property>
+        <property name="addrs" type="string">
+            <column name="ADDRS"  length="10"/>
+        </property>
+        <property name="balance" type="double">
+            <column name="BALANCE"  scale="10" precision="2"/>
+        </property>
+    </class>
+</hibernate-mapping>

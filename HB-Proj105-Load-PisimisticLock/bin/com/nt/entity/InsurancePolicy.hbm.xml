@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 31 Jul, 2019 7:31:28 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+	<class name="com.nt.entity.InsurancePolicy" table="INSURANCEPOLICY">
+		<id name="InsuranceId" type="int">
+			<column name="INSURANCEID" length="5" />
+			<generator class="assigned" />
+		</id>
+
+		<!-- <version name="updateCount" type="int">
+			<column name="UPDATECOUNT" length="3" />
+		</version> -->
+		<property name="InsuranceName" type="string">
+			<column name="INSURANCENAME" length="15" />
+		</property>
+		<property name="tenure" type="int">
+			<column name="TENURE" length="10" />
+		</property>
+		<property name="initialAmount" type="long">
+			<column name="INITIALAMOUNT" length="10" />
+		</property>
+
+
+	</class>
+</hibernate-mapping>

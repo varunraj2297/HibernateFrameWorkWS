@@ -15,9 +15,9 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\HibernateFrameWorkWS"/>
 			<item value="F:\HibernateFrameWorkWS\HB-Proj01-Save"/>
 			<item value="F:\HibernateFrameWorkWS\HB-Proj15-LoadObject-Proxool"/>
-			<item value="F:\HibernateFrameWorkWS"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

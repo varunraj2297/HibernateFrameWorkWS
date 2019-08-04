@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=HB-Proj59-Anno-CallingPL_SQLFunction-5.3/src&lt;com.nt.dao{BankDAO.java[BankDAO" modifiers="513" timestamp="1559308504530"/>
-<typeInfo handle="=HB-Proj62-Pagination/src\/main\/java&lt;com.nt.service{ReportService.java[ReportService" modifiers="513" timestamp="1560260202585"/>
-<typeInfo handle="=HB-Proj60-Hibernate-CriteriaAPI-QBC/F:\/third party apis\/hibernate-release-5.4.1.Final\/hibernate-release-5.4.1.Final\/lib\/optional\/c3p0\/hibernate-c3p0-5.4.1.Final.jar&lt;org.hibernate.c3p0.internal(C3P0ConnectionProvider.class[C3P0ConnectionProvider" modifiers="33" timestamp="1547903316000"/>
-<typeInfo handle="=HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1/src\/main\/java&lt;com.nt.entity{Payment.java[Payment" modifiers="1025" timestamp="1561195638568"/>
-<typeInfo handle="=HB-Proj72-Anno-InheritenceMapping-TPCH-Strategy-1/src\/main\/java&lt;com.nt.dao{PaymentDAO.java[PaymentDAO" modifiers="513" timestamp="1561193094902"/>
-<typeInfo handle="=HB-Proj85-AssociationMapping-ManyToMany/C:\/Program Files\/Java\/jdk1.8.0_192\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1549720034653"/>
-<typeInfo handle="=HBProjNIT74-ManyToManySetCollection/C:\/Users\/hp\/.m2\/repository\/org\/hibernate\/hibernate-c3p0\/5.4.3.Final\/hibernate-c3p0-5.4.3.Final.jar&lt;org.hibernate.c3p0.internal(C3P0ConnectionProvider.class[C3P0ConnectionProvider" modifiers="33" timestamp="1560442971685"/>
-<typeInfo handle="=HBProjNIT74-ManyToManySetCollection/src\/main\/java&lt;com.nt.dao{ManyToManyDAO.java[ManyToManyDAO" modifiers="513" timestamp="1562675561606"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
